@@ -5,6 +5,14 @@ cin.tie(0);
 cout.tie(0);
 ```
 
+- How to set decimal precision
+	```c++
+		#include<iomanip>
+		/*...*/
+		
+		std::cout << fixed << setprecision(8) << number;
+	```
+
 Template structure (work in progress)
 ```c++
 #include <iostream>

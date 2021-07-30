@@ -1,5 +1,5 @@
 Brian Kernighan’s Algorithm
----
+---------------------------
 
 Subtracting 1 from a decimal number **flips all the bits after the rightmost set bit** including the rightmost set bit. To count number of bits, use
 
