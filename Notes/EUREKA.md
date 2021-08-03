@@ -15,7 +15,7 @@ cout.tie(0);
 
 Template structure (work in progress)
 ```c++
-#include <iostream>
+#include<bits/stdc++.h>
 #define ll long long
 using namespace std;
 
